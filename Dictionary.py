@@ -1,0 +1,13 @@
+Capitals = {'India' : 'New Dehli', 'USA' : 'Washington DC', 'Pakistan' : 'Islamabad', 'China' : 'Beijing', 'Russia' : 'Moscow', 'Italy' : 'Rome', 'Germany' : 'Berlin', 'United Kingdom' : 'London'}
+print(Capitals)
+print(Capitals['India'])
+print(Capitals['USA'])
+print(Capitals['Pakistan'])
+print(Capitals['China'])
+print(Capitals['Russia'])
+print(Capitals['Italy'])
+print(Capitals['Germany'])
+print(Capitals['United Kingdom'])
+print(Capitals.items)
+print(Capitals.values)
+print(Capitals.keys)
