@@ -2,7 +2,7 @@ import math
 
 X: int = 50
 Y: int = 68
-Z: 42
+Z: int = 42
 
 # Square root
 Square_Root: int = math.sqrt(16)
