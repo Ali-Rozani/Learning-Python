@@ -1,5 +1,9 @@
 import math
 
+X: int = 50
+Y: int = 68
+Z: 42
+
 # Square root
 Square_Root: int = math.sqrt(16)
 print(Square_Root)
@@ -24,3 +28,9 @@ print(GCD)
 # Log
 Log: float = math.log(10)
 print(Log)
+# Maximum
+Max: int = math.max(X, Y, Z)
+print(Maximum)
+# Minimum
+Minimum: int = math.min(X, Y, Z)
+print(Minimum)
